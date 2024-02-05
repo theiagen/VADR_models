@@ -1,0 +1,134 @@
+>Feature gb|AAA45469.1|
+1	2226	Protein
+			product	viral protein
+1	23	mat_peptide
+			product	viral protein
+			prot_note	putative; label: vp4
+			note	putative; label: vp4
+24	245	mat_peptide
+			product	viral protein
+			prot_note	putative; label: vp2
+			note	putative; label: vp2
+49	214	Region
+			region	Rhv
+			note	picornavirus capsid protein
+			db_xref	CDD:395026
+106	106	Site
+131	131
+133	133
+135	135
+151	151
+170	170
+202	202
+229	229
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+246	491	mat_peptide
+			product	viral protein
+			prot_note	putative; label: vp3
+			note	putative; label: vp3
+300	481	Region
+			region	rhv_like
+			note	Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 copies each of 4 virus encoded proteins; alignment includes picornaviridae, like poliovirus, hepatitis A ...
+			db_xref	CDD:119412
+328	328	Site
+360	360
+362	362
+364	364
+380	380
+403	403
+427	427
+444	444
+471	471
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+492	791	mat_peptide
+			product	viral protein
+			prot_note	putative; label: vp1
+			note	putative; label: vp1
+549	716	Region
+			region	HAV_VP
+			note	Hepatitis A virus viral protein VP
+			db_xref	CDD:403983
+792	980	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 2A
+			note	putative; label: 2A
+981	1087	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 2B
+			note	putative; label: 2B
+1088	1422	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 2C
+			note	putative; label: 2C
+1226	1328	Region
+			region	RNA_helicase
+			note	RNA helicase
+			db_xref	CDD:425942
+1423	1495	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 3A
+			note	putative; label: 3A
+1496	1518	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 3B
+			note	putative; label: 3B
+1519	1737	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 3C
+			note	putative; label: 3C
+1738	2226	mat_peptide
+			product	viral protein
+			prot_note	putative; label: 3D
+			note	putative; label: 3D
+1764	2226	Region
+			region	Hepatovirus_RdRp
+			note	RNA-dependent RNA polymerase (RdRp) in the genus Hepatovirus of positive-sense single-stranded RNA [(+)ssRNA] viruses, within the family Picornaviridae
+			db_xref	CDD:438065
+1839	1840	Site
+1843	1843
+1846	1847
+1859	1859
+1902	1902
+1904	1904
+1921	1921
+1923	1923
+1933	1933
+1944	1944
+1955	1958
+2039	2045
+2080	2083
+2135	2137
+2157	2157
+2166	2166
+2169	2170
+2172	2174
+2177	2177
+			site_type	other
+			note	putative RNA binding site [nucleotide binding]
+			db_xref	CDD:438065
+1901	1922	Site
+			site_type	other
+			note	conserved polymerase motif F
+			db_xref	CDD:438065
+1976	1990	Site
+			site_type	other
+			note	conserved polymerase motif A
+			db_xref	CDD:438065
+2037	2053	Site
+2055	2060
+			site_type	other
+			note	conserved polymerase motif B
+			db_xref	CDD:438065
+2075	2089	Site
+			site_type	other
+			note	conserved polymerase motif C
+			db_xref	CDD:438065
+1	2226	CDS
+			product	viral protein
+			protein_id	gb|AAA45469.1|
+			note	putative
+

@@ -1,0 +1,51 @@
+# cmbuild :: covariance model construction from multiple sequence alignments
+# INFERNAL 1.1.4 (Dec 2020)
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                            hav/hav.vadr.cm
+# alignment file:                                     hav/hav.vadr.stk
+# name (the single) CM:                               M59809
+# ignore secondary structure, if any:                 yes
+# verbose mode:                                       on
+# saving CM expected occupancy values to file:        hav/hav.vadr.cmbuild.occ
+# saving ML CP9 expected occupancy values to file:    hav/hav.vadr.cmbuild.cp9occ
+# saving filter P7 expected occupancy values to file: hav/hav.vadr.cmbuild.fp7occ
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Alignment:           M59809
+Number of sequences: 1
+Number of columns:   7419
+Checking MSA                             ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Relative sequence weighting              ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Constructing model                       ... done.  CPU time: 0.03u 0.04s 00:00:00.07 Elapsed: 00:00:00.08
+Finding and checking dual inserts        ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Transferring MSA annotation              ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Set effective sequence number            ... done.  CPU time: 0.08u 0.01s 00:00:00.09 Elapsed: 00:00:00.07
+Converting counts to probabilities       ... done.  CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.03
+Configuring model                        ... done.  CPU time: 36.36u 0.00s 00:00:36.36 Elapsed: 00:00:36.36
+Setting CM consensus                     ... done.  CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+Calibrating p7 HMM filter                ... done.  CPU time: 567.12u 2.65s 00:09:29.77 Elapsed: 00:09:29.85
+#                                                                      rel entropy
+#                                                                      -----------
+# idx    name                     nseq eff_nseq   alen  clen  bps bifs    CM   HMM description
+# ------ -------------------- -------- -------- ------ ----- ---- ---- ----- ----- -----------
+       1 M59809                      1     1.00   7419  7419    0    0 0.339 0.339 
+
+Summary report for CM structure:
+--------------------------------------
+Total states:       22261
+Total nodes:        7421
+Bifurcations:          0
+MATP nodes:            0
+MATL nodes:         7419
+MATR nodes:            0
+Consensus columns:  7419    (2*MATP+MATL+MATR)
+Base pairs:            0    (MATP)
+Single stranded:    7419    (MATL+MATR)
+//
+#
+# Expected occupancy values for each CM state saved in file hav/hav.vadr.cmbuild.occ.
+# Expected occupancy values for each CM CP9 HMM state saved in file hav/hav.vadr.cmbuild.cp9occ.
+# Expected occupancy values for each filter P7 HMM state saved in file hav/hav.vadr.cmbuild.fp7occ.
+#
+# CPU time: 603.75u 2.72s 00:10:06.47 Elapsed: 00:10:06.55
