@@ -1,5 +1,13 @@
-# VADR_models
+# Theiagen Genomics VADR Models
 
-## HAV
+[VADR](https://github.com/ncbi/vadr) is a suite of tools for classifying and analyzing sequences homologous to a set of reference models of viral genomes or gene families.
 
-M59809 
+VADR works with two main scripts: `v-build.pl` stores the RefSeq feature annotation in the model, and `v-annotate.pl` maps that annotation (e.g. CDS coordinates) onto the sequences it annotates. VADR's `v-build.pl` is used to create VADR models from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) sequences, potentially with secondary structure annotation.
+
+## Custom VADR Models
+
+### HAV
+
+The custom HAV VADR model was constructed with RefSeq sequence [M59809](https://www.ncbi.nlm.nih.gov/nuccore/M59809). The command used was the following
+
+`v-build.pl -f M59809 hav`
