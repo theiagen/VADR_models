@@ -1,0 +1,116 @@
+>Feature ref|NP_041008.1|
+1	2225	Protein
+			product	hypothetical protein
+			prot_desc	polyprotein b (alt.)
+1	21	mat_peptide
+			product	1A VP4b mature peptide (alt.)
+22	243	mat_peptide
+			product	1B VP2 mature peptide
+47	212	Region
+			region	Rhv
+			note	picornavirus capsid protein
+			db_xref	CDD:395026
+104	104	Site
+129	129
+131	131
+133	133
+149	149
+168	168
+200	200
+227	227
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+244	489	mat_peptide
+			product	1C VP3 mature peptide
+298	479	Region
+			region	rhv_like
+			note	Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 copies each of 4 virus encoded proteins; alignment includes picornaviridae, like poliovirus, hepatitis A ...
+			db_xref	CDD:119412
+326	326	Site
+358	358
+360	360
+362	362
+378	378
+401	401
+425	425
+442	442
+469	469
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+490	789	mat_peptide
+			product	1D VP1 mature peptide
+547	714	Region
+			region	HAV_VP
+			note	Hepatitis A virus viral protein VP
+			db_xref	CDD:403983
+790	978	mat_peptide
+			product	2A mature peptide
+			product	capsid assembly signal 2A
+			prot_note	Capsid assembly signal 2A is removed from the VP1-2A protein by a postassembly proteolytic event that presumably involves a host proteinase such as FXa.
+			note	Capsid assembly signal 2A is removed from the VP1-2A protein by a postassembly proteolytic event that presumably involves a host proteinase such as FXa.
+979	1085	mat_peptide
+			product	2B mature peptide
+1086	1420	mat_peptide
+			product	2C mature peptide
+1224	1326	Region
+			region	RNA_helicase
+			note	RNA helicase
+			db_xref	CDD:425942
+1421	1494	mat_peptide
+			product	3A mature peptide
+1495	1517	mat_peptide
+			product	3B (VPg) mature peptide
+1518	1736	mat_peptide
+			product	3C mature peptide
+1737	2225	mat_peptide
+			product	3D mature peptide
+1763	2225	Region
+			region	Hepatovirus_RdRp
+			note	RNA-dependent RNA polymerase (RdRp) in the genus Hepatovirus of positive-sense single-stranded RNA [(+)ssRNA] viruses, within the family Picornaviridae
+			db_xref	CDD:438065
+1838	1839	Site
+1842	1842
+1845	1846
+1858	1858
+1901	1901
+1903	1903
+1920	1920
+1922	1922
+1932	1932
+1943	1943
+1954	1957
+2038	2044
+2079	2082
+2134	2136
+2156	2156
+2165	2165
+2168	2169
+2171	2173
+2176	2176
+			site_type	other
+			note	putative RNA binding site [nucleotide binding]
+			db_xref	CDD:438065
+1900	1921	Site
+			site_type	other
+			note	conserved polymerase motif F
+			db_xref	CDD:438065
+1975	1989	Site
+			site_type	other
+			note	conserved polymerase motif A
+			db_xref	CDD:438065
+2036	2052	Site
+2054	2059
+			site_type	other
+			note	conserved polymerase motif B
+			db_xref	CDD:438065
+2074	2088	Site
+			site_type	other
+			note	conserved polymerase motif C
+			db_xref	CDD:438065
+1	2225	CDS
+			product	hypothetical protein
+			prot_desc	polyprotein b (alt.)
+			protein_id	ref|NP_041008.1|
+

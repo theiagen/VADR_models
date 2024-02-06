@@ -1,6 +1,27 @@
->Feature gb|M59809.1|HPA43C
-718	7398	CDS
-			product	viral protein
-			protein_id	gb|AAA45469.1|
-			note	putative
+>Feature ref|NC_001489.1|
+1	7478	gene
+			locus_tag	HAVgs1
+			db_xref	GeneID:1493917
+1	7478	misc_RNA
+			note	hepatitis A viral genome
+735	7418	gene
+			locus_tag	HAVgp1
+			db_xref	GeneID:1493918
+735	7418	CDS
+			product	hypothetical protein
+			prot_desc	polyprotein a (alt.)
+			protein_id	ref|NP_041007.1|
+741	7418	gene
+			locus_tag	HAVgp2
+			db_xref	GeneID:1493919
+741	7418	CDS
+			product	hypothetical protein
+			prot_desc	polyprotein b (alt.)
+			protein_id	ref|NP_041008.1|
+871	871	variation
+			note	c in pHAVlb39, t in pHAVlb113
+2196	2196	variation
+			note	g in pHAVlb39, a in pHAVlb1307
+6216	6216	variation
+			note	t in pHAVlb93, c in pHAVlb24
 

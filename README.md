@@ -8,6 +8,12 @@ VADR works with two main scripts: `v-build.pl` stores the RefSeq feature annotat
 
 ### HAV
 
-The custom HAV VADR model was constructed with RefSeq sequence [M59809](https://www.ncbi.nlm.nih.gov/nuccore/M59809). The command used was the following
+The custom HAV VADR model was constructed with RefSeq sequence [NC_001489](https://www.ncbi.nlm.nih.gov/nuccore/NC_001489.1). The command used was the following
 
-`v-build.pl -f M59809 hav`
+`v-build.pl -f --group HAV --subgroup IA  NC_001489 hav`
+
+VADR, version 1.6.3, was executed with the container `us-docker.pkg.dev/general-theiagen/staphb/vadr:1.6.3`
+
+## Contact
+
+For any inqueries please contact us at support@theiagen.com. 

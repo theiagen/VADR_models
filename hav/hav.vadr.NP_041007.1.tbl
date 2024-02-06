@@ -1,0 +1,93 @@
+>Feature ref|NP_041007.1|
+1	2227	Protein
+			product	hypothetical protein
+			prot_desc	polyprotein a (alt.)
+1	23	mat_peptide
+			product	1A VP4a mature peptide (alt.)
+49	214	Region
+			region	Rhv
+			note	picornavirus capsid protein
+			db_xref	CDD:395026
+106	106	Site
+131	131
+133	133
+135	135
+151	151
+170	170
+202	202
+229	229
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+300	481	Region
+			region	rhv_like
+			note	Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 copies each of 4 virus encoded proteins; alignment includes picornaviridae, like poliovirus, hepatitis A ...
+			db_xref	CDD:119412
+328	328	Site
+360	360
+362	362
+364	364
+380	380
+403	403
+427	427
+444	444
+471	471
+			site_type	other
+			note	drug-binding pocket [chemical binding]
+			db_xref	CDD:119412
+549	716	Region
+			region	HAV_VP
+			note	Hepatitis A virus viral protein VP
+			db_xref	CDD:403983
+1226	1328	Region
+			region	RNA_helicase
+			note	RNA helicase
+			db_xref	CDD:425942
+1765	2227	Region
+			region	Hepatovirus_RdRp
+			note	RNA-dependent RNA polymerase (RdRp) in the genus Hepatovirus of positive-sense single-stranded RNA [(+)ssRNA] viruses, within the family Picornaviridae
+			db_xref	CDD:438065
+1840	1841	Site
+1844	1844
+1847	1848
+1860	1860
+1903	1903
+1905	1905
+1922	1922
+1924	1924
+1934	1934
+1945	1945
+1956	1959
+2040	2046
+2081	2084
+2136	2138
+2158	2158
+2167	2167
+2170	2171
+2173	2175
+2178	2178
+			site_type	other
+			note	putative RNA binding site [nucleotide binding]
+			db_xref	CDD:438065
+1902	1923	Site
+			site_type	other
+			note	conserved polymerase motif F
+			db_xref	CDD:438065
+1977	1991	Site
+			site_type	other
+			note	conserved polymerase motif A
+			db_xref	CDD:438065
+2038	2054	Site
+2056	2061
+			site_type	other
+			note	conserved polymerase motif B
+			db_xref	CDD:438065
+2076	2090	Site
+			site_type	other
+			note	conserved polymerase motif C
+			db_xref	CDD:438065
+1	2227	CDS
+			product	hypothetical protein
+			prot_desc	polyprotein a (alt.)
+			protein_id	ref|NP_041007.1|
+

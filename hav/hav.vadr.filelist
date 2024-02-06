@@ -1,26 +1,27 @@
-# fasta file for M59809 saved in:                                                  hav.vadr.fa
-# feature table format file for M59809 saved in:                                   hav.vadr.tbl
-# feature table format file for AAA45469.1 saved in:                               hav.vadr.AAA45469.1.tbl
-# Stockholm alignment file for M59809 saved in:                                    hav.vadr.stk
-# nucleotide blastn db fasta sequence file for M59809 saved in:                    hav.vadr.fa
-# BLAST db .nhr file for M59809 saved in:                                          hav.vadr.fa.nhr
-# BLAST db .nin file for M59809 saved in:                                          hav.vadr.fa.nin
-# BLAST db .nsq file for M59809 saved in:                                          hav.vadr.fa.nsq
-# BLAST db .ndb file for M59809 saved in:                                          hav.vadr.fa.ndb
-# BLAST db .not file for M59809 saved in:                                          hav.vadr.fa.not
-# BLAST db .ntf file for M59809 saved in:                                          hav.vadr.fa.ntf
-# BLAST db .nto file for M59809 saved in:                                          hav.vadr.fa.nto
-# fasta sequence file for CDS from M59809 saved in:                                hav.vadr.cds.fa
-# fasta sequence file for translated CDS from M59809 saved in:                     hav.vadr.protein.fa
-# BLAST db .phr file for M59809 saved in:                                          hav.vadr.protein.fa.phr
-# BLAST db .pin file for M59809 saved in:                                          hav.vadr.protein.fa.pin
-# BLAST db .psq file for M59809 saved in:                                          hav.vadr.protein.fa.psq
-# BLAST db .pdb file for M59809 saved in:                                          hav.vadr.protein.fa.pdb
-# BLAST db .pot file for M59809 saved in:                                          hav.vadr.protein.fa.pot
-# BLAST db .ptf file for M59809 saved in:                                          hav.vadr.protein.fa.ptf
-# BLAST db .pto file for M59809 saved in:                                          hav.vadr.protein.fa.pto
-# esl-sfetch index file for Bio::Easel::SqFile=HASH(0x55a085cb0cc8) saved in:      hav.vadr.protein.fa.ssi
-# HMMER model db file for M59809 saved in:                                         hav.vadr.protein.hmm
+# fasta file for NC_001489 saved in:                                               hav.vadr.fa
+# feature table format file for NC_001489 saved in:                                hav.vadr.tbl
+# feature table format file for NP_041007.1 saved in:                              hav.vadr.NP_041007.1.tbl
+# feature table format file for NP_041008.1 saved in:                              hav.vadr.NP_041008.1.tbl
+# Stockholm alignment file for NC_001489 saved in:                                 hav.vadr.stk
+# nucleotide blastn db fasta sequence file for NC_001489 saved in:                 hav.vadr.fa
+# BLAST db .nhr file for NC_001489 saved in:                                       hav.vadr.fa.nhr
+# BLAST db .nin file for NC_001489 saved in:                                       hav.vadr.fa.nin
+# BLAST db .nsq file for NC_001489 saved in:                                       hav.vadr.fa.nsq
+# BLAST db .ndb file for NC_001489 saved in:                                       hav.vadr.fa.ndb
+# BLAST db .not file for NC_001489 saved in:                                       hav.vadr.fa.not
+# BLAST db .ntf file for NC_001489 saved in:                                       hav.vadr.fa.ntf
+# BLAST db .nto file for NC_001489 saved in:                                       hav.vadr.fa.nto
+# fasta sequence file for CDS from NC_001489 saved in:                             hav.vadr.cds.fa
+# fasta sequence file for translated CDS from NC_001489 saved in:                  hav.vadr.protein.fa
+# BLAST db .phr file for NC_001489 saved in:                                       hav.vadr.protein.fa.phr
+# BLAST db .pin file for NC_001489 saved in:                                       hav.vadr.protein.fa.pin
+# BLAST db .psq file for NC_001489 saved in:                                       hav.vadr.protein.fa.psq
+# BLAST db .pdb file for NC_001489 saved in:                                       hav.vadr.protein.fa.pdb
+# BLAST db .pot file for NC_001489 saved in:                                       hav.vadr.protein.fa.pot
+# BLAST db .ptf file for NC_001489 saved in:                                       hav.vadr.protein.fa.ptf
+# BLAST db .pto file for NC_001489 saved in:                                       hav.vadr.protein.fa.pto
+# esl-sfetch index file for Bio::Easel::SqFile=HASH(0x55cfc8432220) saved in:      hav.vadr.protein.fa.ssi
+# HMMER model db file for NC_001489 saved in:                                      hav.vadr.protein.hmm
 # hmmbuild build output (concatenated) saved in:                                   hav.vadr.protein.hmmbuild
 # binary HMM and p7 HMM filter file saved in:                                      hav.vadr.protein.hmm.h3m
 # SSI index for binary HMM file saved in:                                          hav.vadr.protein.hmm.h3i
@@ -34,4 +35,4 @@
 # optimized p7 HMM filters (MSV part) saved in:                                    hav.vadr.cm.i1f
 # optimized p7 HMM filters (remainder) saved in:                                   hav.vadr.cm.i1p
 # cmpress output file saved in:                                                    hav.vadr.cmpress
-# VADR 'model info' format file for M59809 saved in:                               hav.vadr.minfo
+# VADR 'model info' format file for NC_001489 saved in:                            hav.vadr.minfo
