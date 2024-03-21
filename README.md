@@ -14,7 +14,7 @@ The custom HAV VADR model was constructed with RefSeq sequence [NC_001489](https
 
 VADR, version 1.6.3, was executed with the container `us-docker.pkg.dev/general-theiagen/staphb/vadr:1.6.3`
 
-Further details:
+**Further details:**
 - reference sequence assembly: NC_001489
 - version number of assembly: 1
 - source of assembly: RefSeq
